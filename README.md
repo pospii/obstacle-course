@@ -9,5 +9,3 @@ Hra vypadá tak, že hrajete s hráčem, keterý musí projít překážkovou dr
 Po vytvoření základní hry by se mohlo dostavit více levelů, multiplayer a jiné vylepšení.
 ### Time tracking
 _5.12. - 3h_
-
-_12.12. - 5h_
