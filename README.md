@@ -10,3 +10,4 @@ Po vytvoření základní hry by se mohlo dostavit více levelů, multiplayer a 
 ### Time tracking
 _5.12. - 3h_
 _24.1. - 1h_
+_25.1. - 1/2h_
