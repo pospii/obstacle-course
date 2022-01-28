@@ -5,10 +5,10 @@ Jedná se o seminární projekt. Podstatou tohoto projektu je vytvoření hry Ob
 Hra vypadá tak, že hrajete s hráčem, keterý musí projít překážkovou dráhou (budou zde různé stěny, pohybující se objekty a jiné překážky). Pokud se hráč dotkne překážky, dostane trestné body, což bude mít i nějaké následky. 
 ### Verze
 --
-
+<br><br><br>
 Po vytvoření základní hry by se mohlo dostavit více levelů, multiplayer a jiné vylepšení.
 ### Time tracking
-_5.12. - 3h_
-_24.1. - 1h_
-_25.1. - 1/2h_
-_18.1. - 1,5h_
+_5.12. - 3h_<br>
+_24.1. - 1h_<br>
+_25.1. - 1/2h_<br>
+_18.1. - 1,5h_<br>
