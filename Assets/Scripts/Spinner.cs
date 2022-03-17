@@ -5,7 +5,7 @@ using UnityEngine;
 public class Spinner : MonoBehaviour
 {
     [SerializeField] float XRotation = 0;
-    [SerializeField] float YRotation = 0.5f;
+    [SerializeField] float YRotation = 0.4f;
     [SerializeField] float ZRotation = 0;
 
     void Start()
